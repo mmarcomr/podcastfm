@@ -1,6 +1,8 @@
+_MACOSX/
+04-PodcastApp/
 src/
 node_modules/
 build/css/app.css
 package.json
-package_lock.json
+package-lock.json
 gulpfile.js
